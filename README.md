@@ -22,7 +22,7 @@ pip install pyserial
 
 # Run the GUI
 python scroll_gui.py
-
+```
 ## 📁 Repo Structure
 - `scroll_gui.py` — main Python GUI
 - `arduino_firmware.ino` — Arduino sketch for controlling LEDs
