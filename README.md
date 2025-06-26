@@ -21,4 +21,22 @@ A modular Python GUI that controls an Arduino-based LED system for optogenetics 
 pip install pyserial
 
 # Run the GUI
-python gui.py
+python scroll_gui.py
+
+## 📁 Repo Structure
+- `scroll_gui.py` — main Python GUI
+- `arduino_firmware.ino` — Arduino sketch for controlling LEDs
+- `docs/` — system diagram, screenshots
+- `protocol_examples/` — sample JSON configs
+
+## 🧪 Project Background
+Built as part of my senior design project at Drexel University, this system supports optogenetic research workflows by improving experiment repeatability and accessibility.
+
+## 📸 Screenshots
+_(Add images to `/docs/` and link them here later!)_
+
+## 📫 Contact
+Have feedback or want to collaborate?  
+📧 rodrigo01.aragao@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rb-aragao)
+
