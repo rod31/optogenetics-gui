@@ -1,0 +1,58 @@
+{
+  "protocols": [
+    {
+      "name": "red2",
+      "color": "R",
+      "intensity": "40",
+      "active": "5",
+      "silent": "5",
+      "on": "1",
+      "off": "4",
+      "total": "50"
+    },
+    {
+      "name": "red1",
+      "color": "R",
+      "intensity": "255",
+      "active": "5",
+      "silent": "5",
+      "on": "4",
+      "off": "1",
+      "total": "30"
+    },
+    {
+      "name": "blue1",
+      "color": "B",
+      "intensity": "255",
+      "active": "5",
+      "silent": "5",
+      "on": "4",
+      "off": "1",
+      "total": "30"
+    },
+    {
+      "name": "blue2",
+      "color": "B",
+      "intensity": "40",
+      "active": "5",
+      "silent": "5",
+      "on": "1",
+      "off": "4",
+      "total": "50"
+    }
+  ],
+  "assignments": {
+    "0": [
+      "H1-H12"
+    ],
+    "1": [
+      "A1-A12"
+    ],
+    "2": [
+      "C1-C12"
+    ],
+    "3": [
+      "E1-E12"
+    ]
+  }
+}
