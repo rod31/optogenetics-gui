@@ -33,11 +33,11 @@ python scroll_gui.py
 Built as part of my senior design project at Drexel University, this system supports optogenetic research workflows by improving experiment repeatability and accessibility.
 
 ## 📸 Screenshots
-_(Add images to `/docs/` and link them here later!)_
+[Gui](https://github.com/rod31/optogenetics-gui/blob/main/screenshot1.png)
 
 ## 🎥 Demo
 
-https://github.com/rod31/optogenetics-gui/assets/rod31/demo.mp4
+[Video](https://github.com/rod31/optogenetics-gui/blob/main/demo.mp4)
 
 ## 📫 Contact
 Have feedback or want to collaborate?  
