@@ -35,6 +35,10 @@ Built as part of my senior design project at Drexel University, this system supp
 ## 📸 Screenshots
 _(Add images to `/docs/` and link them here later!)_
 
+## 🎥 Demo
+
+https://github.com/rod31/optogenetics-gui/assets/rod31/demo.mp4
+
 ## 📫 Contact
 Have feedback or want to collaborate?  
 📧 rodrigo01.aragao@gmail.com  
