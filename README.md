@@ -5,9 +5,10 @@ A modular Python GUI that controls an Arduino-based LED system for optogenetics 
 
 ## ⚙️ Technologies Used
 - Python (Tkinter for GUI, PySerial for Arduino communication)
-- Arduino Nano
+- Arduino MEGA
+- Raspberry Pi (Model 4b)
 - Serial communication (USB)
-- Basic electronics (LEDs, resistors, MOSFET)
+- Basic electronics (96-well LED plate, resistors, thermistor, computer fan)
 
 ## 🚀 Features
 - Custom protocol editor (pulse width, frequency, color)
@@ -26,8 +27,7 @@ python scroll_gui.py
 ## 📁 Repo Structure
 - `scroll_gui.py` — main Python GUI
 - `arduino_firmware.ino` — Arduino sketch for controlling LEDs
-- `docs/` — system diagram, screenshots
-- `protocol_examples/` — sample JSON configs
+- `protocols.json` — sample JSON configs
 
 ## 🧪 Project Background
 Built as part of my senior design project at Drexel University, this system supports optogenetic research workflows by improving experiment repeatability and accessibility.
